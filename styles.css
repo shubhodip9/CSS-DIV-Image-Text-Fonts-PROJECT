@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-family: "Rubik Iso";
+}
+.image{
+    border: 5px solid gold;
+    width: 85%;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    color: gold;
+    text-align: center;
+}
+h5{
+    font-family: "Dancing Script";
+    font-size: 1.4rem;
+}
+h3{
+    font-family: "Black Ops One";
+}
